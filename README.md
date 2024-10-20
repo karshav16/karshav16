@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karshav16&label=Profile%20views&color=0e75b6&style=flat" alt="karshav16" /> </p>
 
-- 🔭 I’m currently working on [Psych](https://github.com/karshav16/Psych)
+- 🔭 I’m currently working and looking to collaborate on [Psych](https://github.com/karshav16/Psych)
 
 - 🌱 I’m currently learning **Node JS, JS, React**
 
