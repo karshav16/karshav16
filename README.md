@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karshav16&label=Profile%20views&color=0e75b6&style=flat" alt="karshav16" /> </p>
 
-- 🔭 I’m currently working on [Twomato](https://github.com/karshav16/twomato)
+- 🔭 I’m currently working on [Psych](https://github.com/karshav16/Psych)
 
 - 🌱 I’m currently learning **Node JS, JS, React**
-
-- 👯 I’m looking to collaborate on [](https://github.com/karshav16/DSA-Projects)
 
 - 👨‍💻 All of my projects are available at [https://github.com/karshav16](https://github.com/karshav16)
 
