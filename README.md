@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Node JS, JS, React**
 
-- 👯 I’m looking to collaborate on [DSA-projects](https://github.com/karshav16/DSA-Projects)
+- 👯 I’m looking to collaborate on [](https://github.com/karshav16/DSA-Projects)
 
 - 👨‍💻 All of my projects are available at [https://github.com/karshav16](https://github.com/karshav16)
 
 - 📫 How to reach me **darshanjnagre@gmail.com**
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact **An Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
